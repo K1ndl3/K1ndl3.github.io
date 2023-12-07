@@ -19,4 +19,4 @@ Deceptively easy at first, part 2 of Lab 07 taught me the importance of robustne
 3. **Lab 09**
 
 As my first formal algorithm, I learned about linear search through Lab 09 part 1. When looking through an unordered map, it is imperative to find the maximun and minimum of a 
-array/list. As a result, this lab taught to use loops effectively and in a clever manner to efficiently comb through the many elements of a list.  
+array/list. As a result, this lab taught to use loops effectively and in a clever manner to efficiently comb through the many elements of a list. Overall, this lab was very enjoyable and it taught me how to think algorithmically.
